@@ -6,11 +6,11 @@
 }
 @font-face {
     font-family: "DM Sans";
-    src: url(/fonts/DMSans-VariableFont_opsz_wght.woff);
+    src: url(/fonts/DMSans-VariableFont_opsz_wght.woff) format('woff');
 }
 @font-face {
     font-family: "Mulish";
-    src: url(/fonts/Mulish-VariableFont_wght.woff);
+    src: url(/fonts/Mulish-VariableFont_wght.woff) format('woff');
 }
 
 * {
